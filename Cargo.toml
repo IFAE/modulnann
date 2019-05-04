@@ -1,0 +1,11 @@
+[package]
+name = "modulator-nannou"
+version = "0.1.0"
+authors = ["sgrinschpun <sgrinschpun@ifae.es>"]
+description = "Experimenting with Nannou and modulator"
+edition = "2018"
+
+[dependencies]
+nannou = "0.8.0"
+modulator = "0.1.0"
+rand = "0.5.5"
